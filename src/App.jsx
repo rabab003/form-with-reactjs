@@ -2,7 +2,7 @@ function App() {
 
   return (
     <>
-    <div><h3 className="text-2xl">fff</h3></div></>
+    <div><h3 className="text-xl">hello world</h3></div></>
   )
 }
 
